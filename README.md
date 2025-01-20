@@ -7,7 +7,7 @@ https://pern-my.sharepoint.com/:f:/g/personal/mughees_sarwar_ist_edu_pk/EnIRYWzX
 you can also see the sample images on 
 https://github.com/mugheessarwarawan/UETT4k-Anti-UAV
 
-![Project Screenshot]([images/screenshot.png](https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(15).jpg))
+![Screenshot of Drone](https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(15).jpg)
 ## Citation
 
 @article{Det-Fly,
