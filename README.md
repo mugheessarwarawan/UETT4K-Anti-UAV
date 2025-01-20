@@ -14,23 +14,22 @@ https://github.com/mugheessarwarawan/UETT4k-Anti-UAV
 
 # Image Gallery
 
-Here are 12 images arranged in a 3x4 grid:
 
 <table>
   <tr>
-    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(8555).jpg" alt="Image 1" width="50%"></td>
-    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(8567).jpg" alt="Image 2" width="50%"></td>
-    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(50).jpg" alt="Image 3" width="50%"></td>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(8555).jpg" alt="Image 1" width="100%"></td>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(8567).jpg" alt="Image 2" width="100%"></td>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(50).jpg" alt="Image 3" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/your-repo/image4.jpg" alt="Image 4" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/your-repo/image5.jpg" alt="Image 5" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/your-repo/image6.jpg" alt="Image 6" width="100%"></td>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(5).jpg" alt="Image 4" width="100%"></td>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(48).jpg" alt="Image 5" width="100%"></td>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(47).jpg" alt="Image 6" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/your-repo/image7.jpg" alt="Image 7" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/your-repo/image8.jpg" alt="Image 8" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/your-repo/image9.jpg" alt="Image 9" width="100%"></td>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(46).jpg" alt="Image 7" width="100%"></td>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(45).jpg" alt="Image 8" width="100%"></td>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(4).jpg" alt="Image 9" width="100%"></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/your-repo/image10.jpg" alt="Image 10" width="100%"></td>
