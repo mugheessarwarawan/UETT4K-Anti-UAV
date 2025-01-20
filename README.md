@@ -8,6 +8,8 @@ you can also see the sample images on
 https://github.com/mugheessarwarawan/UETT4k-Anti-UAV
 
 ## Citation
+@article{author2024project, title={Your Project Title}, author={Author, First and Last}, journal={Journal Name}, year={2024}, volume={12}, number={3}, pages={45-67}, doi={10.1000/j.journal.2024.01.001} }
+
 @article{Det-Fly,
   author={awan, sarwar and Ali , Syed Azhar and Mir, Junaid },
   journal={IEEE Acess}, 
