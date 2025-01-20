@@ -10,7 +10,7 @@ you can also see the sample images on
 https://github.com/mugheessarwarawan/UETT4k-Anti-UAV
 
 ![Screenshot of Drone](https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(15).jpg)
-![Screenshot of Drone](https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(8555).jpg)
+<img src="https://raw.githubusercontent.com/mugheessarwarawan/UETT4k-Anti-UAV/main/drone%20(15).jpg" alt="Screenshot of Drone" width="50%">
 ## Citation
 
 @article{Det-Fly,
