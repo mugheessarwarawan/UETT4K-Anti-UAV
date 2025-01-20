@@ -7,8 +7,8 @@ https://pern-my.sharepoint.com/:f:/g/personal/mughees_sarwar_ist_edu_pk/EnIRYWzX
 you can also see the sample images on 
 https://github.com/mugheessarwarawan/UETT4k-Anti-UAV
 
+![Project Screenshot]([images/screenshot.png](https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(15).jpg))
 ## Citation
-@article{author2024project, title={Your Project Title}, author={Author, First and Last}, journal={Journal Name}, year={2024}, volume={12}, number={3}, pages={45-67}, doi={10.1000/j.journal.2024.01.001} }
 
 @article{Det-Fly,
   author={awan, sarwar and Ali , Syed Azhar and Mir, Junaid },
