@@ -18,7 +18,7 @@ Here are 12 images arranged in a 3x4 grid:
 
 <table>
   <tr>
-    <td><img src="[https://raw.githubusercontent.com/mugheessarwarawan/UETT4k-Anti-UAV/main/drone%20(15).jpg](https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(8555).jpg)" alt="Image 1" width="100%"></td>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(8555).jpg" alt="Image 1" width="100%"></td>
     <td><img src="https://raw.githubusercontent.com/your-repo/image2.jpg" alt="Image 2" width="100%"></td>
     <td><img src="https://raw.githubusercontent.com/your-repo/image3.jpg" alt="Image 3" width="100%"></td>
   </tr>
