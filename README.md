@@ -39,15 +39,15 @@ https://github.com/mugheessarwarawan/UETT4k-Anti-UAV
 </table>
 
 
-
+if you have any query you may ask me , the trained models can be obatined by e mailing me on mugheessarwarawan@yahoo.com
 
 
 
 
 ## Citation
 
-@article{Det-Fly,
-  author={awan, sarwar and Ali , Syed Azhar and Mir, Junaid },
+@article{UETT4K,
+  author={Awan, Mughees and Ali , Syed Azhar and Mir, Junaid },
   journal={IEEE Acess}, 
   title={UETT4K Anti-UAV: A Large Scale 4K Benchmark Dataset for Vision-based Drone Detection in High-Resolution Imagery}, 
   year={2025},
