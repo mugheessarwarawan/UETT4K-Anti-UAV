@@ -19,12 +19,8 @@ https://pern-my.sharepoint.com/:f:/g/personal/mughees_sarwar_ist_edu_pk/EnIRYWzX
 you can also see the sample images on 
 https://github.com/mugheessarwarawan/UETT4k-Anti-UAV
 
-![Screenshot of Drone](https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(15).jpg)
-<img src="https://raw.githubusercontent.com/mugheessarwarawan/UETT4k-Anti-UAV/main/drone%20(15).jpg" alt="Drone in outdoor" width="50%">
 
 # Image Gallery
-
-
 <table>
   <tr>
     <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(8555).jpg" alt="Image 1" width="100%"></td>
