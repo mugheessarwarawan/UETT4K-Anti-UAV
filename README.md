@@ -13,13 +13,6 @@ https://github.com/mugheessarwarawan/UETT4k-Anti-UAV
 <img src="https://github.com/mugheessarwarawan/UETT4K-Anti-UAV/blob/main/drone%20(23115).jpg" alt="Drone in outdoor" width="50%">
 
 
-the link to our complete dataset is as follow 
-https://pern-my.sharepoint.com/:f:/g/personal/mughees_sarwar_ist_edu_pk/EnIRYWzXcZZBkOUUn0Ltb-4BiXzC6SQpZvIlGbnsFqQKaA?e=M2SULN
-
-you can also see the sample images on 
-https://github.com/mugheessarwarawan/UETT4k-Anti-UAV
-
-
 # Image Gallery
 <table>
   <tr>
