@@ -11,6 +11,16 @@ for any query you may e mail me on mugheessarwarawan@yahoo.com
 ![Screenshot of Drone](https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(15).jpg)
 <img src="https://raw.githubusercontent.com/mugheessarwarawan/UETT4k-Anti-UAV/main/drone%20(15).jpg" alt="Drone in outdoor" width="50%">
 
+
+the link to our complete dataset is as follow 
+https://pern-my.sharepoint.com/:f:/g/personal/mughees_sarwar_ist_edu_pk/EnIRYWzXcZZBkOUUn0Ltb-4BiXzC6SQpZvIlGbnsFqQKaA?e=M2SULN
+
+you can also see the sample images on 
+https://github.com/mugheessarwarawan/UETT4k-Anti-UAV
+
+![Screenshot of Drone](https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(15).jpg)
+<img src="https://raw.githubusercontent.com/mugheessarwarawan/UETT4k-Anti-UAV/main/drone%20(15).jpg" alt="Drone in outdoor" width="50%">
+
 # Image Gallery
 
 
@@ -23,4 +33,29 @@ for any query you may e mail me on mugheessarwarawan@yahoo.com
   <tr>
     <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(5).jpg" alt="Image 4" width="100%"></td>
     <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(48).jpg" alt="Image 5" width="100%"></td>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(47).jpg" alt="Image 6" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(46).jpg" alt="Image 7" width="100%"></td>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(45).jpg" alt="Image 8" width="100%"></td>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(4).jpg" alt="Image 9" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(33).jpg" alt="Image 10" width="100%"></td>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(32).jpg" alt="Image 11" width="100%"></td>
+    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(31).jpg" alt="Image 12" width="100%"></td>
+  </tr>
+</table>
 
+if you have any query you may ask me , the trained models can be obatined by e mailing me on mugheessarwarawan@yahoo.com
+
+## Citation
+
+@article{UETT4K,
+  author={Awan, Mughees and Ali , Syed Azhar and Mir, Junaid },
+  journal={IEEE Acess}, 
+  title={UETT4K Anti-UAV: A Large Scale 4K Benchmark Dataset for Vision-based Drone Detection in High-Resolution Imagery}, 
+  year={2025},
+  volume={1},
+  number={},
+  pages={ }}
