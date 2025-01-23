@@ -38,7 +38,7 @@ https://github.com/mugheessarwarawan/UETT4k-Anti-UAV
 </table>
 
 
-In case of any you may ask me , the trained models can be obatined by e mailing me on mugheessarwarawan@yahoo.com
+In case of any query you may ask me , the trained models can be obatined by e mailing me on mugheessarwarawan@yahoo.com
 
 ## Citation
 
