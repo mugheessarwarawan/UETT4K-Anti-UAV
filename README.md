@@ -1,56 +1,14 @@
-# UETT4K-Anti-UAV
-In recent years, incidents involving unmanned aerial vehicles (UAVs) have increased significantly, raising concerns over security and privacy, especially concerning civilian and military facilities. Vision-based approaches, especially those employing deep convolutional neural networks (DCNNs), show great promise in addressing the need for an accurate and cost-effective UAV detection system. However, DCNNs rely heavily on extensive and well-labeled datasets, which are essential for achieving high accuracy and effectiveness. For drone detection tasks, a dataset of high-resolution images is especially valuable, as it provides more contextual information for DCNNs, enabling more accurate drone detection. This work presents a new drone detection dataset composed of 4K resolution images named University of Engineering and Technology Taxila 4K Anti-UAV (UETT4K Anti-UAV). The dataset is created by obtaining real-world videos of different types of drones in diverse environmental and challenging conditions. A custom dataset of 33601 images, manually annotated with hand-labeled bounding boxes, is created from these videos. The proposed extensive 4K dataset offers a valuable resource for effectively training deep learning models to detect drones across diverse conditions accurately.
+# UETT4k-Anti-UAV
+This this link provides images used in our research of Anti UAV  in 4K. Data will be published as the research paper is published.
+The core idea is to create a purpose built dataset of drone images in 4K resolution , i.e. 3840x2160.
+We trained more than 12 varaints of YOLO, Yolov6v3 nano ,  Yolov6v3 small, Yolov6v3 Medium, Yolov6v3 large. 
+Also we trained high resolution network supporting resolution of 1280 x1280, thus using YOLOV6v3 N6, S6,M6,L6.
 
+total images = 33,601
+with train, test and validation sets having
+ 26599, 4000 and 3002 images,
+ Trainned Yolov6v3 n,s,m,l and n6,s6,m6 and l6 can were trained by me during my research of PhD.
+Samples images can be obtained by e mail me on mugheessarwarawan@yahoo.com
+or 
+16-uet-phd-ee-77@uettaxila.edu.pk
 
-
-the link to our complete dataset is as follow 
-https://pern-my.sharepoint.com/:f:/g/personal/mughees_sarwar_ist_edu_pk/EnIRYWzXcZZBkOUUn0Ltb-4BiXzC6SQpZvIlGbnsFqQKaA?e=M2SULN
-
-you can also see the sample images on 
-https://github.com/mugheessarwarawan/UETT4k-Anti-UAV
-
-![Screenshot of Drone](https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(15).jpg)
-<img src="https://raw.githubusercontent.com/mugheessarwarawan/UETT4k-Anti-UAV/main/drone%20(15).jpg" alt="Drone in outdoor" width="50%">
-
-# Image Gallery
-
-
-<table>
-  <tr>
-    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(8555).jpg" alt="Image 1" width="100%"></td>
-    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(8567).jpg" alt="Image 2" width="100%"></td>
-    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(50).jpg" alt="Image 3" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(5).jpg" alt="Image 4" width="100%"></td>
-    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(48).jpg" alt="Image 5" width="100%"></td>
-    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(47).jpg" alt="Image 6" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(46).jpg" alt="Image 7" width="100%"></td>
-    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(45).jpg" alt="Image 8" width="100%"></td>
-    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(4).jpg" alt="Image 9" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(33).jpg" alt="Image 10" width="100%"></td>
-    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(32).jpg" alt="Image 11" width="100%"></td>
-    <td><img src="https://github.com/mugheessarwarawan/UETT4k-Anti-UAV/blob/main/drone%20(31).jpg" alt="Image 12" width="100%"></td>
-  </tr>
-</table>
-
-
-if you have any query you may ask me , the trained models can be obatined by e mailing me on mugheessarwarawan@yahoo.com
-
-
-
-
-## Citation
-
-@article{UETT4K,
-  author={Awan, Mughees and Ali , Syed Azhar and Mir, Junaid },
-  journal={IEEE Acess}, 
-  title={UETT4K Anti-UAV: A Large Scale 4K Benchmark Dataset for Vision-based Drone Detection in High-Resolution Imagery}, 
-  year={2025},
-  volume={1},
-  number={},
-  pages={ }}
