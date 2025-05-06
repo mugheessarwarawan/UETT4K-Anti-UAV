@@ -46,12 +46,12 @@ In case of any query you may ask me by mailing me on mugheessarwarawan@yahoo.com
 
 ## Citation
 @ARTICLE{10971965,
-  author={Awan, Mughees Sarwar and Zaidi, Syed Azhar Ali and Mir, Junaid},
+  author={Sarwar Awan, Mughees and Azhar Ali Zaidi, Syed and Mir, Junaid},
   journal={IEEE Access}, 
-  title={UETT4K Anti-UAV: A Large Scale 4K Benchmark Dataset for Vision-based Drone Detection in High-Resolution Imagery}, 
+  title={UETT4K Anti-UAV: A Large Scale 4K Benchmark Dataset for Vision-Based Drone Detection in High-Resolution Imagery}, 
   year={2025},
-  volume={},
+  volume={13},
   number={},
-  pages={1-1},
+  pages={73553-73568},
   keywords={Drones;YOLO;Autonomous aerial vehicles;Accuracy;Training;Feature extraction;Detectors;Image resolution;Convolutional neural networks;Birds;Anti-UAV;drone;object detection dataset;UAV detection;4K video},
   doi={10.1109/ACCESS.2025.3562890}}
